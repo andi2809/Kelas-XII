@@ -163,6 +163,7 @@ header {
 	clear: both;
 	display: table;
 }
+
 .foto-header {
 	float: left;
 	margin-right: 42px;
@@ -185,4 +186,12 @@ header {
 }
 
 .show-more {
+	background: #f27259;
+	border: none;
+	border-radius: 12px;
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: 400;
+	margin-top: 48px;
+	padding: 10px 35px;
 }
