@@ -153,15 +153,36 @@ a {
 	float: right;
 }
 
-/* Akhir Navbar */
-
+/* Awal Header */
 header {
 	margin-top: 60px;
-	clear: both;
 }
 
-/* .clearfix::after {
+.clearfix::after {
 	content: "";
 	clear: both;
 	display: table;
-} */
+}
+.foto-header {
+	float: left;
+	margin-right: 42px;
+}
+
+.data-diri h3 {
+	color: #0f172a;
+	font-weight: 500;
+	font-size: 48px;
+	margin-bottom: 10px;
+}
+.data-diri h4 {
+	font-weight: 500;
+	font-size: 24px;
+	color: #475569;
+	margin-bottom: 10px;
+}
+.icon-fb {
+	margin-right: 10px;
+}
+
+.show-more {
+}
